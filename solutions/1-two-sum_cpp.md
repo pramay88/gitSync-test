@@ -5,11 +5,11 @@
 **Date Solved:** July 4, 2025
 
 ## Problem Link
-[1. Two Sum](https://leetcode.com/problems/two-sum/submissions/1685379670/)
+[1. Two Sum](https://leetcode.com/problems/two-sum/submissions/1685407888/)
 
 ## Performance
-- **Runtime:** 3 ms (beats 71.03%)
-- **Memory Usage:** 14.87 MB (beats 37.11%)
+- **Runtime:** 0 ms (beats 100.00%)
+- **Memory Usage:** 14.96 MB (beats 21.56%)
 
 ## Solution
 ```cpp

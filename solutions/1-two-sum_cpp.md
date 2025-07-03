@@ -2,18 +2,30 @@
 
 **Difficulty:** [object Object]  
 **Language:** c++  
-**Date Solved:** July 3, 2025
+**Date Solved:** July 4, 2025
 
 ## Problem Link
-[1. Two Sum](https://leetcode.com/problems/two-sum/submissions/1685301684/)
+[1. Two Sum](https://leetcode.com/problems/two-sum/submissions/1685379670/)
 
 ## Performance
-- **Runtime:** 4 ms (beats 57.24%)
-- **Memory Usage:** 14.92 MB (beats 21.56%)
+- **Runtime:** 3 ms (beats 71.03%)
+- **Memory Usage:** 14.87 MB (beats 37.11%)
 
 ## Solution
 ```cpp
-Push to GitHub
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+       unordered_map<int, int> mp;
+        for (int i = 0; i < nums.size(); i++) {
+            if (mp.find(target - nums[i]) != mp.end()) {
+                return {mp[target - nums[i]], i};
+            }
+            mp[nums[i]] = i;
+        }
+        return {};
+    }
+};
 ```
 
 ## Complexity Analysis

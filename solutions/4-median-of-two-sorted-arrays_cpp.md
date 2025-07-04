@@ -2,7 +2,6 @@
 
 **Difficulty:** 🟥 Hard  
 **Language:** c++  
-**Date Solved:** July 4, 2025
 
 #### *Problem Link*: [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 

@@ -1,6 +1,6 @@
 # 4. Median of Two Sorted Arrays
 
-**Difficulty:** Hard  
+**Difficulty:**   <span style="color: red;">Hard</span>
 **Language:** c++  
 **Date Solved:** July 4, 2025
 

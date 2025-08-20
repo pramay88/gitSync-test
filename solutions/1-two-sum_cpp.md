@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Language:** C++  
 
-#### *Problem Link*: [1. Two Sum](https://leetcode.com/problems/two-sum/)
+#### *Problem Link*: [1. Two Sum](https://leetcode.com/problems/two-sum//)
 
 ## Performance
 - **Runtime:** N/A

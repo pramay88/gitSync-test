@@ -6,8 +6,8 @@
 #### *Problem Link*: [Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 ## Performance
-- **Runtime:** 8 ms (beats 7.68%)
-- **Memory:** 95.94 MB (beats 19.34%)
+- **Runtime:** 3 ms (beats 30.80%)
+- **Memory:** 96.03 MB (beats 10.42%)
 
 ## Solution
 ```cpp

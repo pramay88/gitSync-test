@@ -3,7 +3,7 @@
 **Difficulty:** Hard  
 **Language:** C++  
 
-#### *Problem Link*: [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description//)
+#### *Problem Link*: [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays//)
 
 ## Performance
 - **Runtime:** N/A

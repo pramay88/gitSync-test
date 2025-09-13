@@ -1,9 +1,9 @@
-# 1. Two Sum
+# 1. Two sum
 
 **Difficulty:** Easy  
 **Language:** C++  
 
-#### *Problem Link*: [1. Two Sum](https://leetcode.com/problems/two-sum//)
+#### *Problem Link*: [1. Two sum](https://leetcode.com/problems/two-sum//)
 
 ## Performance
 - **Runtime:** N/A

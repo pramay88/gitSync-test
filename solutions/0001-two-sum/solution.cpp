@@ -1,13 +1,12 @@
-class Solution {
-public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-       unordered_map<int, int> mp;
-        for (int i = 0; i < nums.size(); i++) {
-            if (mp.find(target - nums[i]) != mp.end()) {
-                return {mp[target - nums[i]], i};
-            }
-            mp[nums[i]] = i;
-        }
-        return {};
-    }
-};  
+from typing import List
+
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        mp = {}
+        for i, num in enumerate(nums):
+            complement = target - num
+            if complement in mp:
+                return [mp[complement], i]
+            mp[num] = i
+        return []
+
